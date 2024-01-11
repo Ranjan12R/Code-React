@@ -1,6 +1,6 @@
 # Complete-React
 
-<b>Expense Folder   - Components of React <br>
-NewExpense Folder - Multiple States, Single State <br>
-UI Folder - User Interface Code
+<b style="color: #ddaadd"><u style="color: #99cccc">Expense Folder </u>  - Components of React <br>
+<u style="color: #99cccc">NewExpense Folder </u>- Multiple States, Single State <br>
+<u style="color: #99cccc">UI Folder </u>- User Interface Code
 </b>
